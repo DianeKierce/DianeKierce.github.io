@@ -1,3 +1,11 @@
+# Portfolio website code, adpated from the Landing Page template from Start Bootstrap
+
+See below for details about Start Bootstrap's template.
+
+In this repository, I have the code for [my personal portfolio website](DianeKierce.github.io). I used html once or twice years ago and have never before worked with css, so this was a fun way to learn a little bit about how to make changes and add things using those.
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
