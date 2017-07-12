@@ -2,7 +2,7 @@
 
 See below for details about Start Bootstrap's template.
 
-In this repository, I have the code for [my personal portfolio website](DianeKierce.github.io). I used html once or twice years ago and have never before worked with css, so this was a fun way to learn a little bit about how to make changes and add things using those.
+In this repository, I have the code for [my personal portfolio website](https://dianekierce.github.io/). I used html once or twice years ago and have never before worked with css, so this was a fun way to learn a little bit about how to make changes and add things using those.
 
 
 
